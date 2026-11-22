@@ -1,3 +1,6 @@
+<img width="2400" height="1410" alt="image" src="https://github.com/user-attachments/assets/c8707261-8a43-4b2a-85c6-52fb69db7d89" />
+
+
 # myGlue → Zendesk Guide Importer
 
 Moves knowledge-base documents from a **myGlue (IT Glue) export** into **Zendesk Guide** articles, including their images and attachments.
